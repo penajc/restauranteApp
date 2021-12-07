@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "469491385156",
+    "project_id": "worldskillsauthentication",
+    "storage_bucket": "worldskillsauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469491385156:android:e57e0f50eec453bc1f0d11",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469491385156-rp0oaetiah8tu262u976ja0vjlgvh9od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_firebase",
+            "certificate_hash": "9ba45ac93ff751068f05ea9cb00ca1cbae9f4472"
+          }
+        },
+        {
+          "client_id": "469491385156-fuma016p3nn05570lcs0prs4p4aa5g5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwwHzfw-_g6xoZL5pHMs7y7TKi2Hl8vDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469491385156-fuma016p3nn05570lcs0prs4p4aa5g5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
